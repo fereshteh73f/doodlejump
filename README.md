@@ -1,2 +1,3 @@
 # doodlejump
-the
+first
+00
